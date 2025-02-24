@@ -14,7 +14,7 @@ I Duplicted a social links profile file from Frontend Mentor
 2. Navigate to the project directory:
 
 ```bash
-cd qr-code
+cd social-links-profile
 ```
 3. Create a new branch for your changes:
 ```bash
