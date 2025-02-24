@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+body{
+    background-color: hsl(0, 0%, 8%);
+    font-family: "Inter", serif;
+}
+main{
+    background-color: hsl(0, 0%, 12%);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 50px 440px;
+    border: 1px solid hsl(0, 0%, 12%) ;
+    border-radius: 10px;
+}
+img{
+    border-radius: 50%;
+    width: 90px;
+    margin: 40px 0px 10px 0px;
+}
+.place p{
+    color: hsl(75, 94%, 57%);
+    font-size: 16px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+.name p{
+    color: hsl(0, 0%, 100%);
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+p{
+    color: hsl(0, 0%, 100%);
+    font-size: 14px;
+    margin-top: 4%;
+}
+a{
+    color: hsl(0, 0%, 100%);
+    text-decoration: none;
+    border: 1px solid hsl(0, 0%, 20%);
+    background-color: hsl(0, 0%, 20%);
+    font-size: 14px;
+}
+a:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+    font-weight: bolder;
+    cursor: pointer;
+}
+.links{
+    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+}
+.git{
+    margin: 15px 0px;
+}
+.git a{
+    padding: 2.8% 130px;
+    border-radius: 10px;
+}
+.fm{
+    margin: 15px 0px;
+}
+.fm a{
+    padding: 2.8% 98px;
+    border-radius: 10px;
+}
+.in{
+    margin: 15px 0px;
+}
+.in a{
+    padding: 2.8% 125px;
+    border-radius: 10px;
+}
+.tweet{
+    margin: 15px 0px;
+}
+.tweet a{
+    padding: 2.8% 129px;
+    border-radius: 10px;
+}
+.gram{
+    margin: 15px 0px 50px 0px;
+}
+.gram a{
+    padding: 2.8% 119px;
+    border-radius: 10px;
+}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+
+
+
+
+
+- Font size (paragraph): 14px
+
+### Font
+
+- Family: [Inter](https://fonts.google.com/specimen/Inter)
+- Weights: 400, 600, 700
+
+> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma. The design file for this challenge also includes a basic design system to help you build a more accurate solution faster.
